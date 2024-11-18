@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_12.txt
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_17.txt
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_21.txt
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_26.txt
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_30.txt
+Sitemap: https://clarenceiwewenaas949.github.io/clarenceiwewenaas949_github_io_zp529_7.txt
